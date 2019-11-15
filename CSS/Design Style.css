@@ -1,0 +1,15 @@
+body {
+  background-color: cyan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-width: 5px;
+}
+
+table {
+  border-style: dotted;
+}
