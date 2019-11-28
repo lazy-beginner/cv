@@ -9,9 +9,19 @@ img {
 img:hover {
   background-color: #4baea0;
 }
+
 h1:hover {
-  color: magenta;
+  color: darkred;
 }
+
 h1 {
   transition: 1s;
+}
+
+ h3 {
+   transition: 1s;
+}
+
+h3:hover {
+  color: saddlebrown;
 }
