@@ -19,7 +19,7 @@ h1 {
 }
 
  h3 {
-   transition: 1s;
+   transition: .5s;
 }
 
 h3:hover {
